@@ -9,10 +9,10 @@ body{
 .screen-sfondo{
   background-color: #0000006b;
   background-position: center;
-  margin: 350px;
   border-radius: 10px;
   height: 750px;
   margin-top:20px;
+  margin-left: 100px;
 }
 .container{
   width: 1000px;
